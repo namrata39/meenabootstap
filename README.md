@@ -1,2 +1,2 @@
-# Meenas Bootstrap
-This is a bootstrap website.
+# E-Commerce Site
+This site is built on Bootstrap and JS
